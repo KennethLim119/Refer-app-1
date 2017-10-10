@@ -1,13 +1,12 @@
 import React, { Component } from 'react';
-import './App.css';
 
 class AnoProfile extends Component {
   render() {
     return (
-      <div className="App">
-        
+      <div>
+        <h3>profile1</h3> 
       </div>
-    );
+    )
   }
 }
 

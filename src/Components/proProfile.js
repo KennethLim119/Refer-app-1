@@ -1,13 +1,12 @@
 import React, { Component } from 'react';
-import './App.css';
 
 class ProProfile extends Component {
   render() {
     return (
-      <div className="App">
-        
+      <div>
+        <h3>profile</h3> 
       </div>
-    );
+    )
   }
 }
 

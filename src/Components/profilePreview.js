@@ -3,10 +3,10 @@ import React, { Component } from 'react';
 class ProfilePreview extends Component {
   render() {
     return (
-      <div className="App">
-        
+      <div>
+      	<h3>preview</h3> 
       </div>
-    );
+    )
   }
 }
 

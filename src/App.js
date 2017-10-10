@@ -7,10 +7,13 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        
+      <div className='App'>
+        <h1>REFER</h1>
+        <ProfilePreview />
+        <ProProfile />
+        <AnoProfile />
       </div>
-    );
+    )
   }
 }
 
