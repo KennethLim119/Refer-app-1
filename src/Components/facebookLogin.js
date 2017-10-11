@@ -12,7 +12,7 @@ import FacebookProvider, { Login } from 'react-facebook';
 
   render() {
     return (
-      <FacebookProvider appId="121083295228210">
+      <FacebookProvider appId="1967063996899018">
         <Login
           scope="email"
           onResponse={this.handleResponse}
