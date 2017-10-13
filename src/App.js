@@ -1,12 +1,11 @@
 import React, { Component } from 'react';
-import Layout from './components/Layout'
-import './App.css';
+import Layout from './Components/Layout.js'
+import './index.css';
 
 class App extends Component {
   render() {
     return (
       <div className='App'>
-        <h1>REFER</h1>
         <Layout />
       </div>
     )
